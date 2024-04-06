@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Short River",
+    "description": "Short entrenamiento River",
+    "price": 35000,
+    "thumbnail": "imagen2.jpg",
+    "code": "P002",
+    "stock": 15,
+    "id": 2
+  }
+]
